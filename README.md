@@ -18,13 +18,3 @@ pip install pandas
 
 # 2 – run
 python filter_openvc.py     # prints table + writes investors_ch_top10.csv
-
-<details>
-<summary>Sample output (truncated)</summary>
-
-                name                              website                       hq        type  first_cheque_min
-0   ABB Technology Ventures  https://new.abb.com/...  Zürich, Switzerland  Corporate VC           5000000
-1   BlueOcean Ventures       https://blueocean-...      Switzerland              VC            2000000
-...
-
-</details>
