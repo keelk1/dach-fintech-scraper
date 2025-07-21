@@ -1,6 +1,6 @@
 # Swiss VC / CVC Ticket-Size Scraper
 
-This tiny script shows I can **pull raw data, clean it, filter it, sort it, and ship it** – exactly what an early-stage fund needs for fast deal-flow research.
+This tiny script shows I can **pull raw data, clean it, filter it, sort it, and ship it**, exactly what an early-stage fund needs for fast deal-flow research.
 
 | What it does | Why it matters to you |
 |--------------|-----------------------|
