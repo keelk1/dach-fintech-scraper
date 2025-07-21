@@ -9,15 +9,6 @@ This tiny script shows I can **pull raw data, clean it, filter it, sort it, and 
 | Parses messy ticket strings (`500 k`, `2 M`, `100000`) → integers | Turns marketing fluff into sortable numbers |
 | Ranks by the **largest “first cheque min”** and exports the Top-10 | Instantly tells you who can lead / anchor a pre-seed round |
 
-## Screenshot
-
-Below is a real run on macOS (data refreshed 2025‑07‑20):
-
-## License
-
-This repo is distributed under the MIT License (see LICENSE).
-The original OpenVC dataset is MIT‑licensed as well.
-
 ## Quick start
 
 ```bash
@@ -27,3 +18,12 @@ pip install pandas
 
 # 2 – run
 python filter_openvc.py     # prints table + writes investors_ch_top10.csv
+```
+## Screenshot
+
+Below is a real run on macOS (data refreshed 2025‑07‑20):
+
+## License
+
+This repo is distributed under the MIT License (see LICENSE).
+The original OpenVC dataset is MIT‑licensed as well.
