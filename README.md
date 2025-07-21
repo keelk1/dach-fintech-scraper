@@ -19,4 +19,6 @@ pip install pandas
 # 2 – run
 python filter_openvc.py     # prints table + writes investors_ch_top10.csv
 
-<img width="1132" height="242" alt="image" src="https://github.com/user-attachments/assets/93c3604c-10ca-432a-bfbf-a8503e8ad8e0" />
+Screenshot
+
+Below is a real run on macOS (data refreshed 2025‑07‑20):
