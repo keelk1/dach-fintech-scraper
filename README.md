@@ -22,6 +22,7 @@ python filter_openvc.py     # prints table + writes investors_ch_top10.csv
 ## Screenshot
 
 Below is a real run on macOS (data refreshed 2025‑07‑20):
+<img width="1136" height="240" alt="Screenshot 2025-07-21 at 17 31 04" src="https://github.com/user-attachments/assets/44761ffe-6254-4aff-8d2e-b1da59e8ee5f" />
 
 ## License
 
