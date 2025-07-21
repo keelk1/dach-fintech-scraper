@@ -13,6 +13,10 @@ This tiny script shows I can **pull raw data, clean it, filter it, sort it, and 
 
 Below is a real run on macOS (data refreshed 2025‑07‑20):
 
+## License
+
+This repo is distributed under the MIT License (see LICENSE).
+The original OpenVC dataset is MIT‑licensed as well.
 
 ## Quick start
 
